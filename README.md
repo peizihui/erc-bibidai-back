@@ -1,1 +1,5 @@
-# erc-bibidai-back
+**erc-bbd-back**
+
+mvn install
+
+java -jar target/xx.jar
